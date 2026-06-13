@@ -5,7 +5,7 @@ An AI-powered startup, business, innovation, and competition validation platform
 ---
 
 ## 🔗 Live Product Link
-👉 **<a href="https://novexa-idea-validator.lovable.app" target="_blank">Click Here to Open the Live Application in a New Tab</a>**
+👉 **<a href="https://novexa-idea-validator.lovable.app" target="_blank">Click Here to Open the Live Application</a>**
 
 ---
 
